@@ -1,0 +1,14 @@
+{
+  "name": "usando_git_para_bugs",
+  "version": "1.0.0",
+  "description": "ejemplo de como usando git podemos detectar el momento en que un bug fue introducido y corregir los cambios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Codigo Morsa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
