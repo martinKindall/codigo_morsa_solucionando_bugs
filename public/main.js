@@ -1,3 +1,7 @@
 document.addEventListener("DOMContentLoaded", (event) => {
-    console.log("hello there");
+
+    document.getElementById("btn-guardar")
+        .onclick = (() => {
+            console.log("me guarde!");
+        });
 });
